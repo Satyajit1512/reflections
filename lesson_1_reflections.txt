@@ -1,0 +1,13 @@
+How did viewing a diff between two versions of the file help you see the bug that was introduced?
+
+Viewing a diff allows us to notice the differences between between saves of different versions and it points to the exact additions and deletions being made so it is easy to find out where exactly the change is coming from.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+It is easy to navigate between different commits making it easier to track changes and not be afraid of breaking.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+First project will be Optiver vol competition.
+
